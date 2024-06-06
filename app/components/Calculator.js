@@ -62,7 +62,7 @@ const Calculator = () => {
           </div>
           <div className={`${styles.popup} ${showPopup ? styles.active : ''}`}>
             <p>Calculadora criada por Felipe dos Santos Palmeira</p>
-            <p>Versão: 1.0</p>
+            <p className={`${styles.version}`}>Versão: 1.0</p>
             <button onClick={() => setShowPopup(false)}>Fechar</button>
           </div>
         </div>
