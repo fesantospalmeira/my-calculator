@@ -1,4 +1,4 @@
-```markdown
+
 # Calculadora em React
 
 Este é um projeto de uma calculadora simples desenvolvida com React e Next.js. O projeto também utiliza ESLint para garantir a qualidade do código.
@@ -48,4 +48,3 @@ A calculadora permite realizar operações matemáticas básicas, incluindo adi�
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
