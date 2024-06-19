@@ -1,5 +1,3 @@
-Aqui está um modelo de README em Markdown para o seu projeto:
-
 ```markdown
 # Calculadora em React
 
